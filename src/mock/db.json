@@ -1,0 +1,138 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Beef Enchiladas",
+      "createdAt": "2022-05-15T13:45:30",
+      "creatorName": "Bailey King",
+      "cookingTime": 0.5,
+      "ingredients": [
+        "Black Pepper",
+        "Cumin",
+        "Coriander",
+        "Bay Leaves",
+        "Paprika"
+      ],
+      "instructions": [
+        "Broiling",
+        "Baking",
+        "Pot roasting"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Frito Pie",
+      "createdAt": "2022-05-21T15:24:31",
+      "creatorName": "Kelsey Powers",
+      "cookingTime": 1,
+      "ingredients": [
+        "Paprika",
+        "Cayenne",
+        "Fennel",
+        "Turmeric",
+        "Paprika"
+      ],
+      "instructions": [
+        "Tandoor roasting",
+        "Grilling",
+        "Deep frying"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Favorite Meatloaf",
+      "createdAt": "2022-05-12T21:45:30",
+      "creatorName": "Brady Mayo",
+      "cookingTime": 0.3,
+      "ingredients": [
+        "Fennel",
+        "Turmeric",
+        "Cinnamon",
+        "Nutmeg",
+        "Thyme",
+        "Paprika"
+      ],
+      "instructions": [
+        "Boiling",
+        "Poaching",
+        "Direct steaming"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "General Tso’s Chicken",
+      "createdAt": "2022-05-11T22:15:30",
+      "creatorName": "Sawyer Jarvis",
+      "cookingTime": 0.2,
+      "ingredients": [
+        "Nutmeg",
+        "Thyme",
+        "Oregano",
+        "Chile Flakes",
+        "Paprika"
+      ],
+      "instructions": [
+        "Tandoor roasting",
+        "Grilling",
+        "Deep frying"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Slow Cooker BBQ Ribs",
+      "createdAt": "2022-05-22T05:25:10",
+      "creatorName": "Toby Macdonald",
+      "cookingTime": 0.4,
+      "ingredients": [
+        "Black Pepper",
+        "Cumin",
+        "Coriander",
+        "Bay Leaves",
+        "Paprika"
+      ],
+      "instructions": [
+        "Tandoor roasting",
+        "Grilling",
+        "Deep frying"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Turkey Tetrazzini",
+      "createdAt": "2009-06-15T13:45:30",
+      "creatorName": "Ramiro Wilkinson",
+      "cookingTime": 1.2,
+      "ingredients": [
+        "Black Pepper",
+        "Cumin",
+        "Coriander",
+        "Bay Leaves",
+        "Paprika"
+      ],
+      "instructions": [
+        "Tandoor roasting",
+        "Grilling",
+        "Deep frying"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Frito Pie",
+      "createdAt": "2022-02-22T22:22:22",
+      "creatorName": "Alena Aguilar",
+      "cookingTime": 1.5,
+      "ingredients": [
+        "Nutmeg",
+        "Thyme",
+        "Oregano",
+        "Chile Flakes",
+        "Chile Powder"
+      ],
+      "instructions": [
+        "Tandoor roasting",
+        "Grilling",
+        "Deep frying"
+      ]
+    }
+  ]
+}
